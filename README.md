@@ -49,6 +49,9 @@
 <a href="https://isocpp.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" width="40" height="40"/> 
 </a>
+<a href="https://tr.wikipedia.org/wiki/C_Sharp" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreysalli&theme=radical&show_icons=true&locale=en&layout=compact&exclude_repo=dotfiles,PasswordManager" alt="emreysalli" /></p>
