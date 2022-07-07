@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Istanbul, Turkey</h3>
 
 
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React, React Native**
  
 <h3 align="left">Contact me:</h3>
 <p align="left">
