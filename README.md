@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Yasin Şallı</h1>
-<h3 align="center">A software developer from Istanbul, Turkey</h3>
+<h3 align="left">A software developer from Istanbul, Turkey</h3>
 
 ## 🎓 I'm a Junior Software Engineering
 
