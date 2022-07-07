@@ -30,6 +30,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreysalli&theme=radical&show_icons=true&locale=en&layout=compact&exclude_repo=dotfiles,PasswordManager" alt="emreysalli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreysalli&show_icons=true&theme=radical&include_all_commits=false&hide=stars&locale=en" alt="emreysalli" /></p>
+## :trophy: My Github Stats:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=emreysalli&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=emreysalli&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=emreysalli&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreysalli&hide=php&theme=tokyonight" />
+</a>
+</div>
+
